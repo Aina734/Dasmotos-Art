@@ -1,0 +1,53 @@
+body {
+    font-family: Helvetica;
+    text-align: left;
+    color: black;
+    margin-left: auto;
+    
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(pattern.webp);
+}
+
+#brushes h2 {
+background-color: mediumspringgreen;
+color: white;
+font-size: 32px;
+font-weight: bold;
+padding-left: 30px;
+}
+
+#frames h2 {
+    background-color: lightcoral;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    padding-left: 30px;
+    }
+
+#paint h2 {
+        background-color: skyblue;
+        color: white;
+        font-size: 32px;
+        font-weight: bold;
+        padding-left: 30px;
+        }
+
+figurecaption {   
+    font-size: 1.2em;
+    font-weight: bold;
+        }
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+p {
+    padding-left: 20px;
+}
